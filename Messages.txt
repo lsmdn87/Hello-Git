@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello Git
-Branch created
-Message: File uploaded
-=======
-1. File created from testingBranches
->>>>>>> testingBranches
